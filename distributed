@@ -1,0 +1,7 @@
+*******in server(avya)********
+-jmeter.properties
+r s-slaves ip-(me, harshya)
+
+******client*******
+jmeter-server file-localhost
+
